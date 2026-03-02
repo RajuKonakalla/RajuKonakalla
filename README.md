@@ -21,15 +21,13 @@
 <h3>🌐 Connect</h3>
 
 <p align="left">
-  <a href="mailto:raju630441@gmail.com">
+  <a href="mailto:raju630441@gmail.com" style="margin-right: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
   </a>
 
-
-  <a href="https://www.linkedin.com/in/raju-konakalla">
+  <a href="https://www.linkedin.com/in/raju-konakalla" style="margin-right: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40" />
   </a>
-
 
   <a href="https://github.com/RajuKonakalla">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" />
