@@ -16,7 +16,6 @@
     data-driven intelligent systems.
   </p>
 
-  <p>📍 Vegiwada, India</p>
 
 <h3>🌐 Connect</h3>
 
