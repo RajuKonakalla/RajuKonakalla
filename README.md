@@ -85,3 +85,10 @@
 </div>
 
 ---
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=48&duration=2200&pause=900&color=D36C9A&center=true&vCenter=true&width=850&height=110&lines=Discipline+%3E+Luck" />
+</p>
+
+<br>
