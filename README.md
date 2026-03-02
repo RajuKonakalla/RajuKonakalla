@@ -8,7 +8,12 @@
 <h3>Information Technology Student | Machine Learning • Computer Vision • AI</h3>
 
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img 
+    align="right" 
+    width="350" 
+    src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+    style="margin-top:-100px;"
+  />
 
   <p>
     Information Technology student with strong interest in Machine Learning,
