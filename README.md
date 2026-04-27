@@ -5,7 +5,7 @@
   Hi, I'm <strong>Raju Konakalla</strong>
 </h1>
 
-<h3>Information Technology Student | Machine Learning • Computer Vision • AI</h3>
+<h3>Information Technology Student | Computer Vision • Machine Learning • AI</h3>
 
 <div align="left">
   <img 
@@ -16,8 +16,7 @@
   />
 
   <p>
-    Information Technology student with strong interest in Machine Learning,
-    Computer Vision, and Artificial Intelligence. Focused on building practical,
+    Information Technology student with strong interest in Computer Vision,Machine Learning, and Artificial Intelligence. Focused on building practical,
     data-driven intelligent systems.
   </p>
 
