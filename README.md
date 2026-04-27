@@ -41,39 +41,37 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming</h3>
-<img src="https://skillicons.dev/icons?i=python,java" />
-<br/><br/>
-</td>
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-</td>
-</tr>
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![DETR](https://img.shields.io/badge/DETR-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 
-<tr>
-<td width="50%" align="center">
-<h3>👁️ Computer Vision</h3>
-<img src="https://skillicons.dev/icons?i=opencv" />
-<img src="https://cdn.simpleicons.org/yolo/111111" height="48" />
-</td>
+### Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,linux" />
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" />
-</td>
-</tr>
-</table>
-</p>
+### Deep Learning
+![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ViT](https://img.shields.io/badge/Vision%20Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
