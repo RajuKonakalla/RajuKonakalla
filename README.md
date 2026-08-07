@@ -95,19 +95,7 @@ I engineer data-driven systems and optimize machine learning pipelines, speciali
 ## 📊 Telemetry & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajuKonakalla&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=RajuKonakalla&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&currStreakLabel=00FFFF" width="48%" />
-</div>
-
-<br>
-
-### 🐍 Execution Graph
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajuKonakalla/RajuKonakalla/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajuKonakalla/RajuKonakalla/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajuKonakalla/RajuKonakalla/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=RajuKonakalla&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&currStreakLabel=00FFFF" />
 </div>
 
 <br>
@@ -124,8 +112,8 @@ I engineer data-driven systems and optimize machine learning pipelines, speciali
 ## 🎖️ Proven Execution (Achievement Badges)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆_2nd_Prize-BITS_Hackathon_2025-FFD700?style=for-the-badge&logo=hackaday&logoColor=black" />
-  <img src="https://img.shields.io/badge/Top_Project-YOLOv26_Fall_Detection-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/🏆_2nd_Prize-BITS_Hackathon_2025-FFD700?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Top_Project-YOLOv26_Fall_Detection-00FFFF?style=for-the-badge&labelColor=0D1117" />
 </div>
 
 <br>
