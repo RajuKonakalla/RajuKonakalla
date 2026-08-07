@@ -122,9 +122,9 @@ I engineer data-driven systems and optimize machine learning pipelines, speciali
 
 <p align="left">
   <img src="https://img.shields.io/badge/🏆_2nd_Prize-BITS_Hackathon_2025-FFD700?style=for-the-badge&logo=hackaday&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cleared_Round_2-HackWithInfy-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cohort_2-Summer_of_AI_2025-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top_Project-YOLOv26_Fall_Detection-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
 </p>
+
 
 <hr>
 
